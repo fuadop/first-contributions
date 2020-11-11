@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[<img align="right" width="150" src="https://github.com/firstcontributions/assets/blob/master/Readme/join-slack-team.png?raw=true">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -12,7 +12,7 @@ Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë s
 
 #### *Nëse ende nuk ndjehesh komod me command line, [këtu ke tutoriale që përdorin veglat e GUI]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://github.com/firstcontributions/assets/blob/master/Readme/fork.png?raw=true" alt="fork this repository" />
 
 Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje]( https://help.github.com/articles/set-up-git/).
 
@@ -22,7 +22,7 @@ Për të bërë fork këtë repozitor kliko butonin fork në majë të kësaj fa
 
 ## Klonoje këtë repozitor
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://github.com/firstcontributions/assets/blob/master/Readme/clone.png?raw=true" alt="clone this repository" />
 
 Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e GitHub, hap forked repository, kliko butonin Code dhe pastaj kliko ikonën *copy to clipboard*.
 
@@ -33,7 +33,7 @@ git clone "url që sapo ke kopjuar"
 ```
 ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://github.com/firstcontributions/assets/blob/master/Readme/copy-to-clipboard.png?raw=true" alt="copy URL to clipboard" />
 
 Për shembull:
 ```
@@ -63,7 +63,7 @@ git checkout -b add-filan-fisteku
 
 Tani hap fajllin `Contributors.md` në një program për editim të tekstit dhe shto emrin tënd. Mos e shto në fillim ose në fund. Shtoje ku të duash në mes. Tani, ruaj fajllin.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://github.com/firstcontributions/assets/blob/master/Readme/git-status.png?raw=true" alt="git status" />
 
 
 Nëse shkon te lokacioni i projektit dhe e ekzekuton komandën `git status`, do shohësh se ka ndryshime.
@@ -93,11 +93,11 @@ zëvendëso `<emri-i-degës-tënde>` me emrin e degës që krijove më herët.
 
 Nëse shkon te repozitori jot në GitHub, do të shohësh një buton `Compare & pull request`. Klikoje.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://github.com/firstcontributions/assets/blob/master/Readme/compare-and-pull.png?raw=true" alt="create a pull request" />
 
 Tani bëje submit këtë pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://github.com/firstcontributions/assets/blob/master/Readme/submit-pull-request.png?raw=true" alt="submit pull request" />
 
 Së shpejti do të bashkoj (bëj merge) të gjitha ndryshimet te dega master e këtij projekti. Ti do të njoftohesh me email kur të bëhen ndryshimet.
 
@@ -116,7 +116,7 @@ Tani të të ndihmojmë që të kontribuosh në projekte tjera. Ne kemi krijuar 
 
 ## Tutoriale duke përdorur vegla tjera
 
-| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="./assets/gk-icon.png" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
+| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="gitkraken-tutorial.md"><img alt="GitKraken" src="https://github.com/firstcontributions/assets/blob/master/Readme/gk-icon.png?raw=true" width="100"></a> | <a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a> | <a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                 | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)      | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                           | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)     | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)         | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)         |
 
